@@ -1,0 +1,5 @@
+SHELL=/bin/sh
+PATH=/bin:/sbin:/usr/bin:/usr/sbin
+HOME=/var/log
+#30      3       *       *       *       /bin/sh /home/_dl/update-ads.sh
+0	23	*/2	*	*	/bin/sh /home/_dl/update-ads.sh
